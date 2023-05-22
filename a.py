@@ -29,8 +29,6 @@ import matplotlib.pyplot as plt
 # loading data start---
 test_data=pd.read_csv('test.csv')
 train_data=pd.read_csv('train.csv')
-evall=pd.read_csv('evall.csv')[['id','stroke']]
-
 # loading data end---
 # .
 # .
